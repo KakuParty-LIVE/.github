@@ -1,1 +1,1 @@
-# .github
+# Internal project. Not for open source.
